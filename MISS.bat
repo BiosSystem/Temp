@@ -1,0 +1,1 @@
+C:\Users\matan.peleg\Downloads\SysAidAgent.exe /VERYSILENT /URL https://helpdesk.sisense.com /account sisense /serial 9C5AD2CD1A6B3755 /AllowRemoteControl Y /SubmitSRShortcut "Sisense Support" /HotKey 624 /Interval 10 /ConfirmRC Y /RandomMachineID N /AllowSubmitSR Y
